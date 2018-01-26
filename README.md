@@ -4,7 +4,7 @@
 - **支持全选、反选、单选联系人**
 - **支持检查联系人是否已添加**
 
-[CSDN博客地址具体讲解：http://blog.csdn.net/Liu_yunzhao/article/details/78956554](http://blog.csdn.net/Liu_yunzhao/article/details/78956554)
+[CSDN博客地址具体详解：http://blog.csdn.net/Liu_yunzhao/article/details/78956554](http://blog.csdn.net/Liu_yunzhao/article/details/78956554)
 
 ## [Demo下载](https://github.com/liuyunzhao/ContactList/blob/master/git/app.apk) ##
 
