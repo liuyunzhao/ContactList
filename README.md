@@ -9,7 +9,7 @@
 ## [Demo下载](https://github.com/liuyunzhao/ContactList/blob/master/git/app.apk) ##
 
 ## 单选演示 ##
-![](https://github.com/liuyunzhao/ContactList/blob/master/git/single_selection_.gif)
+![](https://github.com/liuyunzhao/ContactList/blob/master/git/single_selection.gif)
 
 ## 多选演示 ##
-![](https://github.com/liuyunzhao/ContactList/blob/master/git/multiple_selection_.gif)
+![](https://github.com/liuyunzhao/ContactList/blob/master/git/multiple_selection.gif)
